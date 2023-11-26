@@ -3,5 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Publications"
+    url: "/#-publications"
+
   - title: "Gallery"
-    url: "/#gallery"
+    url: "/#-gallery"

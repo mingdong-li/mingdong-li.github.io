@@ -22,7 +22,7 @@ redirect_from:
 [🖺My Resume](https://drive.google.com/file/d/1o8IxkTxctQQ22EMlaFNrtAzalCcecUEF/view?usp=drive_link)
 
 
-# 📖 Introduction
+# 📖 About me
 I am Ph.D. candidate in <a href="https://ais.hkust.edu.hk/">Individualized Interdisciplinary Program (Robotics and Autonomous Systems)</a> at Hong Kong University of Science and Technology (**HKUST**), supervised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yiwen-wang-eewangyw">Prof. Yiwen Wang</a>. Before joined <a href="https://bmi.hkust.edu.hk/">CCEL in HKUST</a>,  I received my M.Eng (**Zhejiang Univ.** 2021) and B.Eng (**Tongji Univ.** 2018) in Mechanical Engineering.
 
 My reserach interest lies in the intersection of neuroscience, neuroengineering, machine learning, and robotics. Now I focus on developing conputational models based point process filter for understanding neural population activity and neural connectivity in **Brain-machine Interfaces**. And I also did some work on brain-inspired intelligence for mechanical product design.
@@ -78,7 +78,7 @@ My reserach interest lies in the intersection of neuroscience, neuroengineering,
 
 # 🎉 Life
 - Languages: Mandarin, English, Germany, French (within *Les rois du monde*)
-- Interest: Reading/Coffee/Erhu/Musicals/Football/Badminton/Video games
+- Interest: Reading/Coffee//Photography/Erhu/Musicals/Football/Badminton/Video games
 
 # 🗺️ Sitemap
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=tt&d=6KfI5_RwBsDcEGlGl29-mLjAgHNYw9P5ileQjlQfoMk&co=ffffff&cmo=ff8888&cmn=ff3737&ct=808080'></script>
