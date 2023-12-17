@@ -39,7 +39,7 @@ My reserach interest lies in the intersection of neural science, neural engineer
 
 # 📝 Publications
 <ol> 
-<li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2023. <a href="https://arinex.com.au/EMBC/pdf/full-paper_1039.pdf">[PDF]</a></li>
+<li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2023. <a href="https://ieeexplore.ieee.org/document/10340664">[PDF]</a></li>
 
 <li><b>Mingdong Li</b>, Shanhe Lou*, Hao Zheng, Yixiong Feng, Yicong Gao, Siyuan Zeng, Jianrong Tan. A Cognitive Analysis-based Key Concepts Derivation Approach for Product Design, <b>Expert Systems With Applications</b>, 2023. (IF = 8.5) <a href="https://doi.org/10.1016/j.eswa.2023.121289">[PDF]</a></li>
 
