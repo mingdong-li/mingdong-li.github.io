@@ -1,22 +1,13 @@
 ---
-permalink: /gallery
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /gallery/
-  - /gallery.html
+title: "gallery"
+permalink: /gallery/
+author_profile: false
+# author_profile: true # 不会修改，可以引入style了，但是profile等图片不行
+
 ---
+# 2024
+![image](500x300.png)
 
-<!-- {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
-<span class='anchor' id='gallery'></span>
-
-[🖺My Resume](https://drive.google.com/file/d/1o8IxkTxctQQ22EMlaFNrtAzalCcecUEF/view?usp=drive_link)
-
-# 📖 Test
+# 2023
+![image](500x300.png)

@@ -7,4 +7,4 @@ main:
     url: "/#-publications"
 
   - title: "Gallery"
-    url: "/#-gallery"
+    url: "/gallery/"
