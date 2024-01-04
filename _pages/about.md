@@ -25,7 +25,7 @@ redirect_from:
 # 📖 About me
 I am Ph.D. candidate in <a href="https://ais.hkust.edu.hk/">Individualized Interdisciplinary Program (Robotics and Autonomous Systems)</a> at Hong Kong University of Science and Technology (**HKUST**), supervised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yiwen-wang-eewangyw">Prof. Yiwen Wang</a>. Before joined <a href="https://bmi.hkust.edu.hk/">CCEL in HKUST</a>,  I received my M.Eng (**Zhejiang Univ.** 2021) and B.Eng (**Tongji Univ.** 2018) in Mechanical Engineering.
 
-My reserach interest lies in the intersection of neuroscience, neuroengineering, machine learning, and robotics. Now I focus on developing conputational models based point process filter for understanding neural population activity and neural connectivity in **Brain-machine Interfaces**. And I also did some work on brain-inspired intelligence for mechanical product design.
+My reserach interest lies in the intersection of neural science, neural engineering, machine learning, and robotics. Now I focus on developing conputational models based point process filter for understanding neural population activity and neural connectivity in **Brain-machine Interfaces**. And I also did some work on brain-inspired intelligence for mechanical product design.
 
 # 🔥 News
 - *2023.08*: We organized <a href="https://ias.hkust.edu.hk/events/the-4th-international-workshop-on-neural-engineering-and-rehabilitation#:~:text=Welcome%20to%20the%20official%20website,science%2C%20computation%2C%20and%20robotics.">the 4th International Workshop on Neural Engineering & Rehabilitation</a> in Chengdu China
@@ -39,7 +39,7 @@ My reserach interest lies in the intersection of neuroscience, neuroengineering,
 
 # 📝 Publications
 <ol> 
-<li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2023. <a href="https://arinex.com.au/EMBC/pdf/full-paper_1039.pdf">[PDF]</a></li>
+<li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2023. <a href="https://ieeexplore.ieee.org/document/10340664">[PDF]</a></li>
 
 <li><b>Mingdong Li</b>, Shanhe Lou*, Hao Zheng, Yixiong Feng, Yicong Gao, Siyuan Zeng, Jianrong Tan. A Cognitive Analysis-based Key Concepts Derivation Approach for Product Design, <b>Expert Systems With Applications</b>, 2023. (IF = 8.5) <a href="https://doi.org/10.1016/j.eswa.2023.121289">[PDF]</a></li>
 
@@ -78,7 +78,7 @@ My reserach interest lies in the intersection of neuroscience, neuroengineering,
 
 # 🎉 Life
 - Languages: Mandarin, English, Germany, French (within *Les rois du monde*)
-- Interest: Reading/Coffee//Photography/Erhu/Musicals/Football/Badminton/Video games
+- Interest: Reading/Coffee/Photography/Erhu/Musicals/Football/Badminton/Video games
 
 # 🗺️ Sitemap
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=tt&d=6KfI5_RwBsDcEGlGl29-mLjAgHNYw9P5ileQjlQfoMk&co=ffffff&cmo=ff8888&cmn=ff3737&ct=808080'></script>
