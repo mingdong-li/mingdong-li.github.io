@@ -56,6 +56,7 @@ My reserach interest lies in the intersection of neural science, neural engineer
 # 👨‍💻 Teaching and Services
 - Teaching Assistant
   - ELEC4130 Machine Learning on Images (2023 Spring)
+  - EMIA4110 Practical Machine Learning (2024 Spring)
 
   
 
@@ -80,5 +81,5 @@ My reserach interest lies in the intersection of neural science, neural engineer
 - Languages: Mandarin, English, Germany, French (within *Les rois du monde*)
 - Interest: Reading/Coffee/Photography/Erhu/Musicals/Football/Badminton/Video games
 
-# 🗺️ Sitemap
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=tt&d=6KfI5_RwBsDcEGlGl29-mLjAgHNYw9P5ileQjlQfoMk&co=ffffff&cmo=ff8888&cmn=ff3737&ct=808080'></script>
+<!-- # 🗺️ Sitemap
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=tt&d=6KfI5_RwBsDcEGlGl29-mLjAgHNYw9P5ileQjlQfoMk&co=ffffff&cmo=ff8888&cmn=ff3737&ct=808080'></script> -->
