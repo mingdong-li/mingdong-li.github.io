@@ -61,12 +61,12 @@ My reserach interest lies in the intersection of neural science, neural engineer
   
 
 # 🏆 Honors and Awards
-- *2023.10*: Research Travel Grant
+- *2023.10*: Research Travel Grant by HKUST
 - *2021.03*: Zhejiang University Graduation Scholarship (Top 2 postgraduates of each college in the graduation year)
 - *2019.10*: ZHEJIANG Lab International AI Competition (Multiple Objects Tracking (MOT) track), Excellence Prize (Rank 10)
 - *2016.07*: 1st prize in No.7 National College Mechanical Design Innovation Competition 
 - *2016.05*: 1st prize in Shanghai College Mechanical Innovation Competition 
-- *2013 - 2018*: Tongji Academic Scholarship (2nd prize & 3rd prize)
+- *2013 - 2018*: Tongji Scholarship of Excellence (2nd prize & 3rd prize)
 
 <!-- 
 # 💻 Internships and Activities
