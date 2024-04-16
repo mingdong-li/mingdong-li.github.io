@@ -29,28 +29,38 @@ My reserach interest lies in the intersection of neural science, neural engineer
 
 # 🔥 News
 - *2023.08*: We organized <a href="https://ias.hkust.edu.hk/events/the-4th-international-workshop-on-neural-engineering-and-rehabilitation#:~:text=Welcome%20to%20the%20official%20website,science%2C%20computation%2C%20and%20robotics.">the 4th International Workshop on Neural Engineering & Rehabilitation</a> in Chengdu China
+- *2024.04*: Two papers are accepted ti EMBC 2024!
 - *2023.08*: A paper is accepted to ESWA. I finished my master study eventually!
 - *2023.04*: A paper is accepted to EMBC 2023.
 - *2022.11*: I passed my PhD Qualifying Examination!
 - *2022.09*: A paper is accepted by IJPR.
-- *2022.04*: A paper is accepted to EMBC 2022.
+<!-- - *2022.04*: A paper is accepted to EMBC 2022. -->
 <!-- *2021.09*: Join CCEL Group of HKUST!
 *2021.03*: Graduate from Zhejiang University! -->
 
 # 📝 Publications
+## Journal paper
 <ol> 
-<li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2023. <a href="https://ieeexplore.ieee.org/document/10340664">[PDF]</a></li>
-
 <li><b>Mingdong Li</b>, Shanhe Lou*, Hao Zheng, Yixiong Feng, Yicong Gao, Siyuan Zeng, Jianrong Tan. A Cognitive Analysis-based Key Concepts Derivation Approach for Product Design, <b>Expert Systems With Applications</b>, 2023. (IF = 8.5) <a href="https://doi.org/10.1016/j.eswa.2023.121289">[PDF]</a></li>
 
 <li><b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Hao Zheng, Bingtao Hu, Jianrong Tan. A cerebellar operant conditioning-inspired constraint satisfaction approach for product design concept generation, <b>International Journal of Production Research</b>, 2022. (IF = 9.2) <a href="https://doi.org/10.1080/00207543.2022.2116734">[PDF]</a></li>
-
-<li><b>Mingdong Li</b>, Shuhang Chen, Xi Liu, Zhiwei Song, Yiwen Wang*. Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter, <b>2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2022. <a href="https://doi.org/10.1109/EMBC48229.2022.9871283">[PDF]</a></li>
 
 <li>Xuanyu Wu, Zhaoxi Hong*, Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou, Jianrong Tan. A semantic analysis driven customer requirements mining method for product conceptual design, <b>Scientific Reports</b>, 2022. (IF = 4.6) <a href="https://doi.org/10.1038/s41598-022-14396-3">[PDF]</a></li>
   
 <li>Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Jianrong Tan. A Digital Twin-Driven Method for Product Performance Evaluation Based on Intelligent Psycho-Physiological Analysis, <b>Transaction of the ASME, Journal of computing and Information Science in Engineering</b>, 2021. (IF = 3.1) <a href="https://doi.org/10.1115/1.4049895">[PDF]</a></li>
 </ol> 
+
+## Conference paper
+<ol>
+<li><b>Mingdong Li</b>,Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identificatio, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2024. <a href="">[not ready]</a></li>
+
+<li>Zixu Wang<span>&#8224;</span>, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>,Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2024. (<span>&#8224;</span>: equal contribution) <a href="">[not ready]</a></li>
+
+<li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2023. <a href="https://ieeexplore.ieee.org/document/10340664">[PDF]</a></li>
+
+<li><b>Mingdong Li</b>, Shuhang Chen, Xi Liu, Zhiwei Song, Yiwen Wang*. Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter, <b>2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2022. <a href="https://doi.org/10.1109/EMBC48229.2022.9871283">[PDF]</a></li>
+</ol> 
+
 
 
 # 👨‍💻 Teaching and Services
