@@ -28,8 +28,8 @@ I am Ph.D. candidate in <a href="https://ais.hkust.edu.hk/">Individualized Inter
 My reserach interest lies in the intersection of neural science, neural engineering, machine learning, and robotics. Now I focus on developing conputational models based point process filter for understanding neural population activity and neural connectivity in **Brain-machine Interfaces**. And I also did some work on brain-inspired intelligence for mechanical product design.
 
 # 🔥 News
+- *2024.04*: Two papers are accepted to EMBC 2024!
 - *2023.08*: We organized <a href="https://ias.hkust.edu.hk/events/the-4th-international-workshop-on-neural-engineering-and-rehabilitation#:~:text=Welcome%20to%20the%20official%20website,science%2C%20computation%2C%20and%20robotics.">the 4th International Workshop on Neural Engineering & Rehabilitation</a> in Chengdu China
-- *2024.04*: Two papers are accepted ti EMBC 2024!
 - *2023.08*: A paper is accepted to ESWA. I finished my master study eventually!
 - *2023.04*: A paper is accepted to EMBC 2023.
 - *2022.11*: I passed my PhD Qualifying Examination!
@@ -52,9 +52,9 @@ My reserach interest lies in the intersection of neural science, neural engineer
 
 ## Conference paper
 <ol>
-<li><b>Mingdong Li</b>,Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identificatio, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2024. <a href="">[not ready]</a></li>
+<li><b>Mingdong Li</b>, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identificatio, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2024. <a href="">[not ready]</a></li>
 
-<li>Zixu Wang<span>&#8224;</span>, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>,Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2024. (<span>&#8224;</span>: equal contribution) <a href="">[not ready]</a></li>
+<li>Zixu Wang<span>&#8224;</span>, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>, Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2024. (<span>&#8224;</span>: equal contribution) <a href="">[not ready]</a></li>
 
 <li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2023. <a href="https://ieeexplore.ieee.org/document/10340664">[PDF]</a></li>
 
