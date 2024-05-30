@@ -41,18 +41,20 @@ My reserach interest lies in the intersection of neural science, neural engineer
 # 📝 Publications
 ## Journal paper
 <ol> 
-<li><b>Mingdong Li</b>, Shanhe Lou*, Hao Zheng, Yixiong Feng, Yicong Gao, Siyuan Zeng, Jianrong Tan. A Cognitive Analysis-based Key Concepts Derivation Approach for Product Design, <b>Expert Systems With Applications</b>, 2023. (IF = 8.5) <a href="https://doi.org/10.1016/j.eswa.2023.121289">[PDF]</a></li>
+<!-- <li><b>Mingdong Li</b><span>&#8224;</span>, Shuhang Chen<span>&#8224;</span>, Xiang Zhang, Yiwen Wang. Neural Correlation Integrated Adaptive Point Process Filtering on Population Spike Trains, <b>Neural Computation</b>, 2024.  (<span>&#8224;</span>: equal contribution) <a href="">[under review]</a></li> -->
 
-<li><b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Hao Zheng, Bingtao Hu, Jianrong Tan. A cerebellar operant conditioning-inspired constraint satisfaction approach for product design concept generation, <b>International Journal of Production Research</b>, 2022. (IF = 9.2) <a href="https://doi.org/10.1080/00207543.2022.2116734">[PDF]</a></li>
+<li><b>Mingdong Li</b>, Shanhe Lou*, Hao Zheng, Yixiong Feng, Yicong Gao, Siyuan Zeng, Jianrong Tan. A Cognitive Analysis-based Key Concepts Derivation Approach for Product Design, <b>Expert Systems With Applications</b>, 2024. (IF = 8.5) <a href="https://doi.org/10.1016/j.eswa.2023.121289">[PDF]</a></li>
 
-<li>Xuanyu Wu, Zhaoxi Hong*, Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou, Jianrong Tan. A semantic analysis driven customer requirements mining method for product conceptual design, <b>Scientific Reports</b>, 2022. (IF = 4.6) <a href="https://doi.org/10.1038/s41598-022-14396-3">[PDF]</a></li>
+<li><b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Hao Zheng, Bingtao Hu, Jianrong Tan. A Cerebellar Operant Conditioning-inspired Constraint Satisfaction Approach for Product Design Concept Generation, <b>International Journal of Production Research</b>, 2023. (IF = 9.2) <a href="https://doi.org/10.1080/00207543.2022.2116734">[PDF]</a></li>
+
+<li>Xuanyu Wu, Zhaoxi Hong*, Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou, Jianrong Tan. A Semantic Analysis Driven Customer Requirements Mining Method for Product Conceptual Design, <b>Scientific Reports</b>, 2022. (IF = 4.6) <a href="https://doi.org/10.1038/s41598-022-14396-3">[PDF]</a></li>
   
 <li>Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Jianrong Tan. A Digital Twin-Driven Method for Product Performance Evaluation Based on Intelligent Psycho-Physiological Analysis, <b>Transaction of the ASME, Journal of computing and Information Science in Engineering</b>, 2021. (IF = 3.1) <a href="https://doi.org/10.1115/1.4049895">[PDF]</a></li>
 </ol> 
 
 ## Conference paper
 <ol>
-<li><b>Mingdong Li</b>, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identificatio, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2024. <a href="">[not ready]</a></li>
+<li><b>Mingdong Li</b>, Mingyi Wang, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identification, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2024. <a href="">[not ready]</a></li>
 
 <li>Zixu Wang<span>&#8224;</span>, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>, Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2024. (<span>&#8224;</span>: equal contribution) <a href="">[not ready]</a></li>
 
@@ -68,10 +70,10 @@ My reserach interest lies in the intersection of neural science, neural engineer
   - ELEC4130 Machine Learning on Images (2023 Spring)
   - EMIA4110 Practical Machine Learning (2024 Spring)
 
-  
 
 # 🏆 Honors and Awards
-- *2023.10*: Research Travel Grant by HKUST
+- *2024.04*: IEEE Annual International Conference of Engineering in Medicine and Biology Society (EMBC) NextGen Scholar Award
+- *2021-2024*: Research Travel Grant by HKUST
 - *2021.03*: Zhejiang University Graduation Scholarship (Top 2 postgraduates of each college in the graduation year)
 - *2019.10*: ZHEJIANG Lab International AI Competition (Multiple Objects Tracking (MOT) track), Excellence Prize (Rank 10)
 - *2016.07*: 1st prize in No.7 National College Mechanical Design Innovation Competition 
