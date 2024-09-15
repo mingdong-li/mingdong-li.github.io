@@ -19,7 +19,9 @@ redirect_from:
 
 *"Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir und das moralische Gesetz in mir."*
 
-[🖺My Resume](https://drive.google.com/file/d/1o8IxkTxctQQ22EMlaFNrtAzalCcecUEF/view?usp=drive_link)
+[🖺My Resume (Google Drive)](https://drive.google.com/file/d/1jVIOby4jso6CCyu3m1Grzb2-NjV_VeLs/view?usp=sharing)
+
+[🖺My Resume (腾讯云盘)](https://share.weiyun.com/XOfEMvGY)
 
 
 # 📖 About me
