@@ -22,10 +22,6 @@ redirect_from:
 [🖺My Resume (English)](../gallery/Academic_CV_en.pdf)
 
 [🖺简历 (中文)](../gallery/Academic_CV_ch.pdf)
-<!-- 
-[🖺My Resume (English)](https://github.com/mingdong-li/mingdong-li.github.io/tree/main/gallery/Academic_CV_en.pdf)
-
-[🖺简历 (中文)](https://github.com/mingdong-li/mingdong-li.github.io/tree/main/gallery/Academic_CV_ch.pdf) -->
 
 
 # 📖 About me
