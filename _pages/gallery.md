@@ -5,6 +5,12 @@ author_profile: false
 # author_profile: true # 不会修改，可以引入style了，但是profile等图片不行
 
 ---
+# 🎉 Life
+- Languages: Mandarin, English, Germany, French (within *Les rois du monde*)
+- Interest: Reading/Coffee/Photography/Erhu/Musicals/Football/Badminton/Video games
+
+
+
 # 2024
 ## Shantou (汕头) and Chaozhou (潮州), June
 
