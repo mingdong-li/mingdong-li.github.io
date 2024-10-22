@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Mingdong Li (Raymond)"
+title                    : "Mingdong Li's Homepage"
 description              : "Ph.D. candidate @ HKUST, Email: mlidr@connect.ust.hk"
 repository               : "mingdong-li/mingdong-li.github.io"
 google_scholar_stats_use_cdn : false
