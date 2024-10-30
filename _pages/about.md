@@ -29,7 +29,7 @@ redirect_from:
 
 I am a final-year Ph.D. candidate in <a href="https://ais.hkust.edu.hk/">Individualized Interdisciplinary Program (Robotics and Autonomous Systems)</a> at Academy of Interdisciplinary Studies (**AIS**) of Hong Kong University of Science and Technology (**HKUST**), supervised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yiwen-wang-eewangyw">Prof. Yiwen Wang</a> (<a href="https://bmi.hkust.edu.hk/">CCEL in HKUST</a>). Before joining HKUST,  I received my M.Eng (**Zhejiang Univ.** 2021) and B.Eng (**Tongji Univ.** 2018) in Mechanical Engineering.
 
-My reserach interest lies in the intersection of **brain-machine interface**, **neural science** and **artificial intelligence**. Now I focus on modeling point processes (neuronal spike trains)  for understanding neural populations in Brain-machine Interfaces. And I also did some work on brain-inspired intelligence for mechanical product design. I am broadly interested in
+My research interest lies in the intersection of **brain-machine interface**, **neural science** and **artificial intelligence**. Now I focus on modeling point processes (neuronal spike trains)  for understanding neural populations in Brain-machine Interfaces. And I also did some work on brain-inspired intelligence for mechanical product design. I am broadly interested in
 1. Developing interpretable methods in neuroscience for understanding how neurons are organized to represent, process and transmit information in a data-driven way
 2. Building brain-inspired machine intelligence framework for bridging the gap between artificial and biological neural networks
 3. Applications in brain-machine interface, robotics learning, wearable computers and solving questions in multiple areas, etc
