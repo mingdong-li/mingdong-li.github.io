@@ -25,16 +25,25 @@ redirect_from:
 
 
 # 📖 About me
-I am Ph.D. candidate in <a href="https://ais.hkust.edu.hk/">Individualized Interdisciplinary Program (Robotics and Autonomous Systems)</a> at Academy of Interdisciplinary Studies (**AIS**) of Hong Kong University of Science and Technology (**HKUST**), supervised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yiwen-wang-eewangyw">Prof. Yiwen Wang</a>. Before joined <a href="https://bmi.hkust.edu.hk/">CCEL in HKUST</a>,  I received my M.Eng (**Zhejiang Univ.** 2021) and B.Eng (**Tongji Univ.** 2018) in Mechanical Engineering.
+**[On Job Market]**. 
 
-My reserach interest lies in the intersection of neural science, neural engineering, machine learning, and robotics. Now I focus on developing conputational models based point process filter for understanding neural population activity and neural connectivity in **Brain-machine Interfaces**. And I also did some work on brain-inspired intelligence for mechanical product design.
+I am a final-year Ph.D. candidate in <a href="https://ais.hkust.edu.hk/">Individualized Interdisciplinary Program (Robotics and Autonomous Systems)</a> at Academy of Interdisciplinary Studies (**AIS**) of Hong Kong University of Science and Technology (**HKUST**), supervised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yiwen-wang-eewangyw">Prof. Yiwen Wang</a> (<a href="https://bmi.hkust.edu.hk/">CCEL in HKUST</a>). Before joining HKUST,  I received my M.Eng (**Zhejiang Univ.** 2021) and B.Eng (**Tongji Univ.** 2018) in Mechanical Engineering.
+
+My reserach interest lies in the intersection of **brain-machine interface**, **neural science** and **artificial intelligence**. Now I focus on modeling point processes (neuronal spike trains)  for understanding neural populations in Brain-machine Interfaces. And I also did some work on brain-inspired intelligence for mechanical product design. I am broadly interested in
+1. Developing interpretable methods in neuroscience for understanding how neurons are organized to represent, process and transmit information in a data-driven way
+2. Building brain-inspired machine intelligence framework for bridging the gap between artificial and biological neural networks
+3. Applications in brain-machine interface, robotics learning, wearable computers and solving questions in multiple areas, etc
+
+
 
 # 🔥 News
-- *2024.04*: Two papers are accepted to EMBC 2024!
-- *2023.08*: We organized <a href="https://ias.hkust.edu.hk/events/the-4th-international-workshop-on-neural-engineering-and-rehabilitation#:~:text=Welcome%20to%20the%20official%20website,science%2C%20computation%2C%20and%20robotics.">the 4th International Workshop on Neural Engineering & Rehabilitation</a> in Chengdu China
-- *2023.08*: A paper is accepted to ESWA. I finished my master study eventually!
-- *2023.04*: A paper is accepted to EMBC 2023.
-- *2022.11*: I passed my PhD Qualifying Examination!
+- *[2024.10]*: Awarded DAAD AInet Fellowship and invited to join the Postdoctoral Networking Tour in Artificial Intelligence
+- *[2024.04]*: Two papers are accepted to EMBC 2024! I am honored with NextGen Scholar Award.
+- *[2023.11]*: Gave a talk on Tracking Dynamic Neural Connectivity in seminar of Robotics and Autonomous Systems Thrust
+- *[2023.08]*: We organized <a href="https://ias.hkust.edu.hk/events/the-4th-international-workshop-on-neural-engineering-and-rehabilitation#:~:text=Welcome%20to%20the%20official%20website,science%2C%20computation%2C%20and%20robotics.">the 4th International Workshop on Neural Engineering & Rehabilitation</a> in Chengdu China
+- *[2023.08]*: A paper is accepted to ESWA. I finished my master study eventually!
+- *[2023.04]*: A paper is accepted to EMBC 2023.
+- *[2022.11]*: I passed my PhD Qualifying Examination!
 <!-- - *2022.09*: A paper is accepted by IJPR. -->
 <!-- - *2022.04*: A paper is accepted to EMBC 2022. -->
 <!-- *2021.09*: Join CCEL Group of HKUST! -->
@@ -79,12 +88,11 @@ My reserach interest lies in the intersection of neural science, neural engineer
 
 
 # 🏆 Honors and Awards
+- *2024.10*: DAAD AInet fellowship and selected as DAAD AInet fellow
 - *2024.04*: NextGen Scholar Award issued by IEEE Annual International Conference of Engineering in Medicine and Biology Society (EMBC)
-- *2021-2024*: Research Travel Grant
 - *2021.03*: Zhejiang University Graduation Scholarship (Top 2 postgraduates of each college in the graduation year)
-- *2019.10*: ZHEJIANG Lab International AI Competition (Multiple Objects Tracking (MOT) track), Excellence Prize (Rank 10)
+- *2019.10*: ZHEJIANG Lab International AI Competition (Multiple Objects Tracking (MOT) track), Excellence Prize
 - *2016.07*: 1st prize in No.7 National College Mechanical Design Innovation Competition 
-- *2016.05*: 1st prize in Shanghai College Mechanical Innovation Competition 
 - *2013 - 2018*: Tongji Scholarship of Excellence (2nd prize & 3rd prize)
 
 <!-- 
