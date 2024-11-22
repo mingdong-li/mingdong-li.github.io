@@ -108,5 +108,7 @@ My research interest lies in the intersection of **brain-machine interface**, **
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=tt&d=6KfI5_RwBsDcEGlGl29-mLjAgHNYw9P5ileQjlQfoMk&co=ffffff&cmo=ff8888&cmn=ff3737&ct=808080'></script> -->
 
 <div align="center">
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=5b968j00kr5&amp;m=1&amp;h=165&amp;c=ff0000&amp;r=0" async="async"></script>
+<body>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=a&t=tt&d=6KfI5_RwBsDcEGlGl29-mLjAgHNYw9P5ileQjlQfoMk&co=ffffff&cmo=73ceff&cmn=0085ad&ct=000000'></script>
+</body>
 </div>
