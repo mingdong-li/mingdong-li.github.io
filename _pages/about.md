@@ -42,7 +42,7 @@ My research interest lies in the intersection of **brain-machine interface**, **
 - *[2023.Aug]*: We organized <a href="https://ias.hkust.edu.hk/events/the-4th-international-workshop-on-neural-engineering-and-rehabilitation#:~:text=Welcome%20to%20the%20official%20website,science%2C%20computation%2C%20and%20robotics.">the 4th International Workshop on Neural Engineering & Rehabilitation</a> in Chengdu China
 - *[2023.Aug]*: A paper was accepted to ESWA. I finished my master study eventually!
 - *[2023.Apr]*: A paper was accepted to EMBC 2023.
-- *[2022.Nov]*: Passed my PhD Qualifying Examination!
+<!-- - *[2022.Nov]*: Passed my PhD Qualifying Examination! -->
 <!-- - *2022.09*: A paper is accepted by IJPR. -->
 <!-- - *2022.04*: A paper is accepted to EMBC 2022. -->
 <!-- *2021.09*: Join CCEL Group of HKUST! -->
@@ -64,9 +64,6 @@ My research interest lies in the intersection of **brain-machine interface**, **
 
 ## Conference paper
 <ol>
-
-<li><b>Mingdong Li</b>, Jieyuan Tan, Zhiwei Song, Yiwen Wang*. Modeling Neural Population Dynamics in a Point Process Filter for Neuroprosthetics Control, <b>2024 Annual Conference of International Association of Neurorestoratology (IANR) </b>. <a href="../gallery/IANS2024_Shanghai_poster_Mingdong.pdf">[Poster]</a></li> 
-
 <li><b>Mingdong Li</b>, Mingyi Wang, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identification, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. <a href="">[Accepted, not ready]</a></li>
 
 <li>Zixu Wang, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>, Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. (<span>&#8224;</span>: co-first author) <a href="">[Accepted, not ready]</a></li>
@@ -78,12 +75,16 @@ My research interest lies in the intersection of **brain-machine interface**, **
 </ol> 
 
 
-
-# 👨‍💻 Services, Teaching and Activities
-- 2024 Annual Conference of International Association of Neurorestoratology (IANR), Shanghai
+# 👨‍💻 Services and Teaching
 - Teaching Assistant
   - ELEC4130 Machine Learning on Images (2023 Spring)
   - EMIA4110 Practical Machine Learning (2024 Spring)
+- Reviewer: TIV, ISBI2025
+
+# 💻 Activities
+- *2024.10*: Modeling Neural Population Dynamics in a Point Process Filter for Neuroprosthetics Control for 2024 Annual Conference of International Association of Neurorestoratology (IANR) <a href="../gallery/IANS2024_Shanghai_poster_Mingdong.pdf">[Poster]</a> 
+- *2023.08*: Organize 4th International Workshop on Neural Engineering & Rehabilitation
+- *2022.05*: Poster for The 3rd International Workshop on Neural Engineering & Rehabilitation
 
 
 # 🏆 Honors and Awards
@@ -93,6 +94,8 @@ My research interest lies in the intersection of **brain-machine interface**, **
 - *2019.10*: ZHEJIANG Lab International AI Competition (Multiple Objects Tracking (MOT) track), Excellence Prize
 - *2016.07*: 1st prize in No.7 National College Mechanical Design Innovation Competition 
 - *2013 - 2018*: Tongji Scholarship of Excellence (2nd prize & 3rd prize)
+
+
 
 <!-- 
 # 💻 Internships and Activities
@@ -104,11 +107,11 @@ My research interest lies in the intersection of **brain-machine interface**, **
 -->
 
 
-# 🗺️ Sitemap
+<!-- # 🗺️ Sitemap -->
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=320&t=tt&d=6KfI5_RwBsDcEGlGl29-mLjAgHNYw9P5ileQjlQfoMk&co=ffffff&cmo=ff8888&cmn=ff3737&ct=808080'></script> -->
 
-<div align="center">
+<!-- <div align="center">
 <body>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=a&t=tt&d=6KfI5_RwBsDcEGlGl29-mLjAgHNYw9P5ileQjlQfoMk&co=ffffff&cmo=73ceff&cmn=0085ad&ct=000000'></script>
 </body>
-</div>
+</div> -->
