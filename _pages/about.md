@@ -29,16 +29,16 @@ redirect_from:
 
 I am a final-year Ph.D. candidate in Individualized Interdisciplinary Program (Robotics and Autonomous Systems) at <a href="https://ais.hkust.edu.hk/">Academy of Interdisciplinary Studies (AIS)</a> of Hong Kong University of Science and Technology (**HKUST**), supervised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yiwen-wang-eewangyw">Prof. Yiwen Wang</a> (<a href="https://bmi.hkust.edu.hk/">CCEL in HKUST</a>). Before joining HKUST,  I received my M.Eng (**Zhejiang Univ.** 2021) and B.Eng (**Tongji Univ.** 2018) in Mechanical Engineering.
 
-My research interest lies in the intersection of **brain-machine interface**, **neuroscience** and **artificial intelligence**. Now I focus on modeling point processes (neuronal spike trains)  for understanding neural populations in Brain-machine Interfaces. And I also did some work on brain-inspired intelligence for mechanical product design. I am broadly interested in
+My research interest lies in the intersection of **brain-machine interface**, **neuroscience** and **artificial intelligence**. Now I focus on modeling point processes (neuronal spike trains)  for understanding neural populations in Brain-machine Interfaces. And I also did some work on brain-inspired intelligence for product design. I am broadly interested in
 1. Developing interpretable methods in neuroscience to understand how neurons are organized to represent, process, and transmit information using data-driven approaches
 2. Creating brain-inspired machine intelligence frameworks to bridge the gap between artificial neural networks and biological neural networks.
-3. Exploring applications in brain-machine interfaces, robotics learning, wearable computing, and realizing intelligent product design, etc.
+3. Exploring applications in wearable computing, mental health, and robotics learning, etc.
 
 
 # 🔥 News
 - *[2024.Oct]*: Awarded DAAD AInet Fellowship and invited to join the Postdoctoral Networking Tour in Artificial Intelligence
 - *[2024.Apr]*: Two papers were accepted to EMBC 2024! I am honored with NextGen Scholar Award.
-- *[2023.Nov]*: Gave a talk on Tracking Dynamic Neural Connectivity in seminar of Robotics and Autonomous Systems Thrust
+- *[2023.Nov]*: Talk on Tracking Dynamic Neural Connectivity in seminar of Robotics and Autonomous Systems Thrust
 - *[2023.Aug]*: We organized <a href="https://ias.hkust.edu.hk/events/the-4th-international-workshop-on-neural-engineering-and-rehabilitation#:~:text=Welcome%20to%20the%20official%20website,science%2C%20computation%2C%20and%20robotics.">the 4th International Workshop on Neural Engineering & Rehabilitation</a> in Chengdu China
 - *[2023.Aug]*: A paper was accepted to ESWA. I finished my master study eventually!
 - *[2023.Apr]*: A paper was accepted to EMBC 2023.
@@ -64,11 +64,11 @@ My research interest lies in the intersection of **brain-machine interface**, **
 
 ## Conference paper
 <ol>
-<li><b>Mingdong Li</b>, Mingyi Wang, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identification, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. <a href="">[Accepted, not ready]</a></li>
+<li><b>Mingdong Li</b>, Mingyi Wang, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identification, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. (Oral) <a href="">[Accepted, not ready]</a></li>
 
-<li>Zixu Wang, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>, Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. (<span>&#8224;</span>: co-first author) <a href="">[Accepted, not ready]</a></li>
+<li>Zixu Wang, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>, Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. (Oral, <span>&#8224;</span>co-first author) <a href="">[Accepted, not ready]</a></li>
 
-<li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. <a href="https://ieeexplore.ieee.org/document/10340664">[PDF]</a></li>
+<li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. (Oral) <a href="https://ieeexplore.ieee.org/document/10340664">[PDF]</a></li>
 
 <li><b>Mingdong Li</b>, Shuhang Chen, Xi Liu, Zhiwei Song, Yiwen Wang*. Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter, <b>2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. <a href="https://doi.org/10.1109/EMBC48229.2022.9871283">[PDF]</a></li>
 
@@ -77,23 +77,25 @@ My research interest lies in the intersection of **brain-machine interface**, **
 
 # 👨‍💻 Services and Teaching
 - Teaching Assistant
-  - ELEC4130 Machine Learning on Images (2023 Spring)
   - EMIA4110 Practical Machine Learning (2024 Spring)
-- Reviewer: TIV, ISBI2025
+  - ELEC4130 Machine Learning on Images (2023 Spring)
+- Reviewer: TIV, ISBI2025, NER2025
 
 # 💻 Activities
-- *2024.10*: Modeling Neural Population Dynamics in a Point Process Filter for Neuroprosthetics Control for 2024 Annual Conference of International Association of Neurorestoratology (IANR) <a href="../gallery/IANS2024_Shanghai_poster_Mingdong.pdf">[Poster]</a> 
-- *2023.08*: Organize 4th International Workshop on Neural Engineering & Rehabilitation
-- *2022.05*: Poster for The 3rd International Workshop on Neural Engineering & Rehabilitation
+<!-- - *[2024.Nov]* Talk on  -->
+- *[2024.Oct]* Modeling Neural Population Dynamics in a Point Process Filter for Neuroprosthetics Control for 2024 Annual Conference of International Association of Neurorestoratology (IANR) <a href="../gallery/IANS2024_Shanghai_poster_Mingdong.pdf">[Poster]</a>
+- *[2023.Nov]*: Talk on Tracking Dynamic Neural Connectivity in seminar of Robotics and Autonomous Systems Thrust 
+- *[2023.Aug]* Program Committee: 4th International Workshop on Neural Engineering & Rehabilitation
+- *[2022.May]* Program Committee: 3rd International Workshop on Neural Engineering & Rehabilitation
 
 
 # 🏆 Honors and Awards
-- *2024.10*: DAAD AInet Fellow (Deutscher Akademischer Austauschdiens, Germany)
-- *2024.04*: NextGen Scholar Award (IEEE Annual International Conference of Engineering in Medicine and Biology Society (EMBC))
-- *2021.03*: Zhejiang University Graduation Scholarship (Top 2 postgraduates of each college in the graduation year)
-- *2019.10*: ZHEJIANG Lab International AI Competition (Multiple Objects Tracking (MOT) track), Excellence Prize
-- *2016.07*: 1st prize in No.7 National College Mechanical Design Innovation Competition 
-- *2013 - 2018*: Tongji Scholarship of Excellence (2nd prize & 3rd prize)
+- *[2024.Oct]*: DAAD AInet Fellow (Deutscher Akademischer Austauschdiens, Germany)
+- *[2024.Apr]*: NextGen Scholar Award (IEEE Annual International Conference of Engineering in Medicine and Biology Society (EMBC))
+- *[2021.Mar]*: Zhejiang University Dissertation Year Scholarship (Top 2 postgraduates of each college)
+- *[2019.Oct]*: ZHEJIANG Lab International AI Competition (Multiple Objects Tracking (MOT) track), Excellence Prize
+- *[2016.Jul]*: 1st prize in No.7 National College Mechanical Design Innovation Competition 
+- *[2013 - 2018]*: Tongji Scholarship of Excellence (2nd prize & 3rd prize)
 
 
 
