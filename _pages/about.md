@@ -64,9 +64,9 @@ My research interest lies in the intersection of **brain-machine interface**, **
 
 ## Conference paper
 <ol>
-<li><b>Mingdong Li</b>, Mingyi Wang, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identification, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. (Oral) <a href="">[Accepted, not ready]</a></li>
+<li><b>Mingdong Li</b>, Mingyi Wang, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identification, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. (Oral) <a href="https://ieeexplore.ieee.org/abstract/document/10781885">[PDF]</a></li>
 
-<li>Zixu Wang, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>, Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. (Oral, <span>&#8224;</span>co-first author) <a href="">[Accepted, not ready]</a></li>
+<li>Zixu Wang, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>, Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. (Oral, <span>&#8224;</span>co-first author) <a href="https://ieeexplore.ieee.org/abstract/document/10782327">[PDF]</a></li>
 
 <li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. (Oral) <a href="https://ieeexplore.ieee.org/document/10340664">[PDF]</a></li>
 
