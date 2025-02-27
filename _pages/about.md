@@ -29,9 +29,9 @@ redirect_from:
 
 I am a final-year Ph.D. candidate in Individualized Interdisciplinary Program (Robotics and Autonomous Systems) at <a href="https://ais.hkust.edu.hk/">Academy of Interdisciplinary Studies (AIS)</a> of Hong Kong University of Science and Technology (**HKUST**), supervised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yiwen-wang-eewangyw">Prof. Yiwen Wang</a> (<a href="https://bmi.hkust.edu.hk/">CCEL in HKUST</a>). Before joining HKUST,  I received my M.Eng (**Zhejiang Univ.** 2021) and B.Eng (**Tongji Univ.** 2018) in Mechanical Engineering.
 
-My research interest lies in **brain-machine Interface**, **NeuroAI** and **Cognitive Analysis**. Now I focus on point processes modeling (spiking activity) for understanding neural populations in Brain-machine Interfaces. And I also did some work on brain-inspired intelligence for product design. I am broadly interested in
-1. Developing interpretable models to understand how neurons organize to represent, process, and transmit information
-2. Creating brain-inspired machine intelligence frameworks to bridge the gap between artificial neural networks and biological neural networks.
+My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cognitive Analysis**. Now I focus on point processes modeling (spiking activity) for understanding neural populations coding in Brain-machine Interfaces. And I also did some work on brain-inspired intelligence and cognitive analysis. I am broadly interested in
+1. Developing interpretable models to understand how neurons represent, process, and transmit information
+2. Establishing brain-inspired machine intelligence frameworks bridging artificial neural networks and biological neural networks.
 3. Exploring applications in wearable computing, mental health, and robotics learning, etc.
 
 
@@ -53,26 +53,26 @@ My research interest lies in **brain-machine Interface**, **NeuroAI** and **Cogn
 # 📝 Publications
 ## Journal paper
 <ol> 
-<li><b>Mingdong Li</b>, Shuhang Chen<span>&#8224;</span>, Xiang Zhang, Yiwen Wang. Neural Correlation Integrated Adaptive Point Process Filtering on Population Spike Trains, <b>IEEE Transactions on Neural Systems and Rehabilitation Engineering</b> (TNSRE), 2025.  (<span>&#8224;</span>: co-first author) <a href="https://ieeexplore.ieee.org/document/10902622">[PDF]</a></li>
+<li><b>Mingdong Li</b>, Shuhang Chen<span>&#8224;</span>, Xiang Zhang, Yiwen Wang. Neural Correlation Integrated Adaptive Point Process Filtering on Population Spike Trains, IEEE Transactions on Neural Systems and Rehabilitation Engineering <b>(TNSRE)</b>, 2025.  (<span>&#8224;</span>: co-first author) <a href="https://ieeexplore.ieee.org/document/10902622">[PDF]</a></li>
 
-<li><b>Mingdong Li</b>, Shanhe Lou*, Hao Zheng, Yixiong Feng, Yicong Gao, Siyuan Zeng, Jianrong Tan. A Cognitive Analysis-based Key Concepts Derivation Approach for Product Design, <b>Expert Systems With Applications</b> (ESWA), 2024. <a href="https://doi.org/10.1016/j.eswa.2023.121289">[PDF]</a></li>
+<li><b>Mingdong Li</b>, Shanhe Lou*, Hao Zheng, Yixiong Feng, Yicong Gao, Siyuan Zeng, Jianrong Tan. A Cognitive Analysis-based Key Concepts Derivation Approach for Product Design, Expert Systems With Applications <b>(ESWA)</b>, 2024. <a href="https://doi.org/10.1016/j.eswa.2023.121289">[PDF]</a></li>
 
-<li><b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Hao Zheng, Bingtao Hu, Jianrong Tan. A Cerebellar Operant Conditioning-inspired Constraint Satisfaction Approach for Product Design Concept Generation, <b>International Journal of Production Research</b> (IJPR), 2023. <a href="https://doi.org/10.1080/00207543.2022.2116734">[PDF]</a></li>
+<li><b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Hao Zheng, Bingtao Hu, Jianrong Tan. A Cerebellar Operant Conditioning-inspired Constraint Satisfaction Approach for Product Design Concept Generation, International Journal of Production Research <b>(IJPR)</b>, 2023. <a href="https://doi.org/10.1080/00207543.2022.2116734">[PDF]</a></li>
 
-<li>Xuanyu Wu, Zhaoxi Hong*, Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou, Jianrong Tan. A Semantic Analysis Driven Customer Requirements Mining Method for Product Conceptual Design, <b>Scientific Reports</b> (Sci. Rep.), 2022. <a href="https://doi.org/10.1038/s41598-022-14396-3">[PDF]</a></li>
+<li>Xuanyu Wu, Zhaoxi Hong*, Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou, Jianrong Tan. A Semantic Analysis Driven Customer Requirements Mining Method for Product Conceptual Design, Scientific Reports <b>(Sci. Rep.)</b>, 2022. <a href="https://doi.org/10.1038/s41598-022-14396-3">[PDF]</a></li>
   
-<li>Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Jianrong Tan. A Digital Twin-Driven Method for Product Performance Evaluation Based on Intelligent Psycho-Physiological Analysis, <b>Transaction of the ASME, Journal of computing and Information Science in Engineering</b> (JCISE), 2021. <a href="https://doi.org/10.1115/1.4049895">[PDF]</a></li>
+<li>Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Jianrong Tan. A Digital Twin-Driven Method for Product Performance Evaluation Based on Intelligent Psycho-Physiological Analysis, Transaction of the ASME, Journal of computing and Information Science in Engineering <b>(JCISE)</b>, 2021. <a href="https://doi.org/10.1115/1.4049895">[PDF]</a></li>
 </ol> 
 
 ## Conference paper
 <ol>
-<li><b>Mingdong Li</b>, Mingyi Wang, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identification, <b>2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>, IEEE. (Oral) <a href="https://ieeexplore.ieee.org/abstract/document/10781885">[PDF]</a></li>
+<li><b>Mingdong Li</b>, Mingyi Wang, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identification, 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society <b>(EMBC)</b>. (Oral) <a href="https://ieeexplore.ieee.org/abstract/document/10781885">[PDF]</a></li>
 
-<li>Zixu Wang, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>, Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, <b>2024 46th EMBC</b>. (Oral, <span>&#8224;</span>co-first author) <a href="https://ieeexplore.ieee.org/abstract/document/10782327">[PDF]</a></li>
+<li>Zixu Wang, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>, Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, 2024 46th <b>EMBC</b>. (Oral, <span>&#8224;</span>co-first author) <a href="https://ieeexplore.ieee.org/abstract/document/10782327">[PDF]</a></li>
 
-<li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, <b>2023 45th EMBC</b>. (Oral) <a href="https://ieeexplore.ieee.org/document/10340664">[PDF]</a></li>
+<li><b>Mingdong Li</b>, Shuhang Chen, Zhijia Zhao, Yiwen Wang*. Tracking the Dynamic Functional Neural Connectivity via Conjugate Gradient Optimization, 2023 45th <b>EMBC</b>. (Oral) <a href="https://ieeexplore.ieee.org/document/10340664">[PDF]</a></li>
 
-<li><b>Mingdong Li</b>, Shuhang Chen, Xi Liu, Zhiwei Song, Yiwen Wang*. Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter, <b>2022 44th EMBC</b>. <a href="https://doi.org/10.1109/EMBC48229.2022.9871283">[PDF]</a></li>
+<li><b>Mingdong Li</b>, Shuhang Chen, Xi Liu, Zhiwei Song, Yiwen Wang*. Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter, 2022 44th <b>EMBC</b>. <a href="https://doi.org/10.1109/EMBC48229.2022.9871283">[PDF]</a></li>
 </ol> 
 
 
@@ -83,7 +83,7 @@ My research interest lies in **brain-machine Interface**, **NeuroAI** and **Cogn
 - Reviewer: TIV, ISBI2025, NER2025
 
 # 💻 Activities
-- *[2024.Nov]* Talk on "Neural Population Encoding in Brain-machine Interface" in several universities.
+- *[2024.Nov-Dec]* Talks on "Neural Population Encoding in Brain-machine Interface"
 - *[2024.Oct]* "Modeling Neural Population Dynamics in a Point Process Filter" for Neuroprosthetics Control for 2024 Annual Conference of International Association of Neurorestoratology (IANR) <a href="../gallery/IANS2024_Shanghai_poster_Mingdong.pdf">[Poster]</a>
 - *[2023.Nov]*: Talk on Tracking Dynamic Neural Connectivity in Seminar of Robotics and Autonomous Systems Thrust 
 - *[2023.Aug]* Program Committee: 4th International Workshop on Neural Engineering & Rehabilitation
