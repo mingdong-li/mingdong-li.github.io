@@ -19,9 +19,9 @@ redirect_from:
 
 *"Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir und das moralische Gesetz in mir."*
 
-[🖺My Resume (English)](../gallery/Academic_CV_EN_all.pdf)
+[🖺My Academic Resume](../gallery/Academic_CV_EN_all.pdf)
 
-[🖺简历 (中文)](../gallery/Academic_CV_CN_all.pdf)
+[🖺中文简历（工业界）](../gallery/CV_CN_2p_Mingdong.pdf)
 
 
 # 📖 About me
@@ -80,7 +80,7 @@ My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cogn
 - Teaching Assistant
   - EMIA4110 Practical Machine Learning (2024 Spring)
   - ELEC4130 Machine Learning on Images (2023 Spring)
-- Reviewer: TIV, ISBI2025, NER2025
+- Reviewer: TIV, ISBU, NER2, EMBC
 
 # 💻 Activities
 - *[2024.Nov-Dec]* Talks on "Neural Population Encoding in Brain-machine Interface"
