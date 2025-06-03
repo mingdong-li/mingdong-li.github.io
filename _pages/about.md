@@ -80,7 +80,7 @@ My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cogn
 - Teaching Assistant
   - EMIA4110 Practical Machine Learning (2024 Spring)
   - ELEC4130 Machine Learning on Images (2023 Spring)
-- Reviewer: TIV, ISBU, NER2, EMBC
+- Reviewer: TIV, ISBI, NER, EMBC
 
 # 💻 Activities
 - *[2024.Nov-Dec]* Talks on "Neural Population Encoding in Brain-machine Interface"
