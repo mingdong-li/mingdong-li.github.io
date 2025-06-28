@@ -21,7 +21,7 @@ redirect_from:
 
 [🖺My Academic Resume](../gallery/Academic_CV_EN_all.pdf)
 
-[🖺中文简历（工业界）](../gallery/CV_CN_2p_Mingdong.pdf)
+[🖺中文简历](../gallery/CV_CN_2p_Mingdong.pdf)
 
 
 # 📖 About me
@@ -76,18 +76,11 @@ My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cogn
 </ol> 
 
 
-# 👨‍💻 Services and Teaching
+# 👨‍💻 Academic Services and Teaching
 - Teaching Assistant
   - EMIA4110 Practical Machine Learning (2024 Spring)
   - ELEC4130 Machine Learning on Images (2023 Spring)
-- Reviewer: TIV, ISBI, NER, EMBC
-
-# 💻 Activities
-- *[2024.Nov-Dec]* Talks on "Neural Population Encoding in Brain-machine Interface"
-- *[2024.Oct]* "Modeling Neural Population Dynamics in a Point Process Filter" for Neuroprosthetics Control for 2024 Annual Conference of International Association of Neurorestoratology (IANR) <a href="../gallery/IANS2024_Shanghai_poster_Mingdong.pdf">[Poster]</a>
-- *[2023.Nov]*: Talk on Tracking Dynamic Neural Connectivity in Seminar of Robotics and Autonomous Systems Thrust 
-- *[2023.Aug]* Program Committee: 4th International Workshop on Neural Engineering & Rehabilitation
-<!-- - *[2022.May]* Program Committee: 3rd International Workshop on Neural Engineering & Rehabilitation -->
+- Reviewer: JNE, TIV, ISBI, NER, EMBC
 
 
 # 🏆 Honors and Awards
@@ -97,6 +90,17 @@ My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cogn
 - *[2019.Oct]*: ZHEJIANG Lab International AI Competition (Multiple Objects Tracking (MOT) track), Excellence Prize
 - *[2016.Jul]*: 1st prize in No.7 National College Mechanical Design Innovation Competition 
 - *[2013 - 2018]*: Tongji Scholarship of Excellence (2nd prize & 3rd prize)
+- 
+
+# 💻 Activities
+- *[2025.Jun]* Invited talk on "Modeling Functional Neural Connectivity via Point Process Filtering in Brain-machine Interface"@Max Planck Institute for Biological Intelligence
+- *[2025.Jun]* Invited talk on "Modeling Neural Representations Underlying Behaviors in Brain-machine Interface"@HKUST ECE Future Leader Seminar
+- *[2025.Feb]* Invited talk on "Neural Dynamics for Brain-machine Interface"@Heidelberg University, Interdisciplinary Center for Scientific Computing
+- *[2024.Nov-Dec]* Invited talks on "Neural Population Encoding in Brain-machine Interface"@SZU, GDMU
+- *[2024.Oct]* "Modeling Neural Population Dynamics in a Point Process Filter" for Neuroprosthetics Control for 2024 Annual Conference of International Association of Neurorestoratology (IANR) <a href="../gallery/IANS2024_Shanghai_poster_Mingdong.pdf">[Poster]</a>
+- *[2023.Nov]*: Talk on Tracking Dynamic Neural Connectivity in Seminar of Robotics and Autonomous Systems Thrust 
+- *[2023.Aug]* Program Committee: 4th International Workshop on Neural Engineering & Rehabilitation
+<!-- - *[2022.May]* Program Committee: 3rd International Workshop on Neural Engineering & Rehabilitation -->
 
 
 
