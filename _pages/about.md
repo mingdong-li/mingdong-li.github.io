@@ -66,6 +66,9 @@ My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cogn
 
 ## Conference paper
 <ol>
+<li><b>Mingdong Li</b>, Tianyi Hu, Zhiwei Song, Mingyi Wang, Shenghui Wu, Jieyuan Tan, Zixu Wang, Yiwen Wang*. Estimating Neural Representations Underlying Behaviors via Point Process Filtering in Brain-machine Interface Task Learning, IEEE EMBS 12th Annual International Conference on Neural Engineering <b>(NER)</b>.<a href="">[not ready yet]</a></li>
+
+
 <li><b>Mingdong Li</b>, Mingyi Wang, Yiwen Wang*. An Adaptive Superposition Point Process Model with Neuronal Encoding Engagement Identification, 2024 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society <b>(EMBC)</b>. (Oral) <a href="https://ieeexplore.ieee.org/abstract/document/10781885">[PDF]</a></li>
 
 <li>Zixu Wang, Shuhang Chen<span>&#8224;</span>, <b>Mingdong Li</b>, Yiwen Wang*. Tracking Dynamic Conditional Neural Correlation during Task Learning, 2024 46th <b>EMBC</b>. (Oral, <span>&#8224;</span>co-first author) <a href="https://ieeexplore.ieee.org/abstract/document/10782327">[PDF]</a></li>
