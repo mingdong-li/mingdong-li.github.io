@@ -36,6 +36,7 @@ My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cogn
 
 
 # 🔥 News
+- *[2025.Aug]*: I passed my PhD thesis examination.
 - *[2025.Feb]*: A paper is accepted by TNSRE.
 - *[2025.Feb]*: Finished Postdoctoral Networking Tour in Artificial Intelligence in Heidelberg University and Technical University of Munich. Thank you Dr. Zahra Monfared and my friends.
 - *[2024.Oct]*: Awarded DAAD AInet Fellowship
