@@ -27,7 +27,7 @@ redirect_from:
 # 📖 About me
 **[On Job Market]**. 
 
-I am a final-year Ph.D. candidate in Individualized Interdisciplinary Program (Robotics and Autonomous Systems) at <a href="https://ais.hkust.edu.hk/">Academy of Interdisciplinary Studies (AIS)</a> of Hong Kong University of Science and Technology (**HKUST**), supervised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yiwen-wang-eewangyw">Prof. Yiwen Wang</a> (<a href="https://bmi.hkust.edu.hk/">CCEL in HKUST</a>). Before joining HKUST,  I received my M.Eng (**Zhejiang Univ.** 2021) and B.Eng (**Tongji Univ.** 2018) in Mechanical Engineering.
+I am a PhD in Individualized Interdisciplinary Program (Robotics and Autonomous Systems) at <a href="https://ais.hkust.edu.hk/">Academy of Interdisciplinary Studies (AIS)</a> of Hong Kong University of Science and Technology (**HKUST**), supervised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yiwen-wang-eewangyw">Prof. Yiwen Wang</a> (<a href="https://bmi.hkust.edu.hk/">CCEL in HKUST</a>). Before joining HKUST,  I received my M.Eng (**Zhejiang Univ.** 2021) and B.Eng (**Tongji Univ.** 2018) in Mechanical Engineering.
 
 My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cognitive Analysis**. Now I focus on point processes modeling (spiking activity) for understanding neural populations coding in Brain-machine Interfaces. And I also did some work on brain-inspired intelligence and cognitive analysis. I am broadly interested in
 1. Developing interpretable models to understand how neurons represent, process, and transmit information
