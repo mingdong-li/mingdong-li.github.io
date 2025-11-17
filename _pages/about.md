@@ -19,9 +19,9 @@ redirect_from:
 
 *"Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir und das moralische Gesetz in mir."*
 
-[🖺Academic Resume](../gallery/Academic_CV_EN_all.pdf)
+[🖺Academic Resume](../gallery/Academic_CV.pdf)
 
-[🖺中文简历](../gallery/CV_CN_2p_Mingdong.pdf)
+[🖺中文简历](../gallery/Industry_CV_CN.pdf)
 
 
 # 📖 About me
@@ -43,7 +43,7 @@ My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cogn
 - *[2024.Apr]*: Two papers were accepted to EMBC 2024! I am honored with NextGen Scholar Award.
 - *[2023.Aug]*: We organized <a href="https://ias.hkust.edu.hk/events/the-4th-international-workshop-on-neural-engineering-and-rehabilitation#:~:text=Welcome%20to%20the%20official%20website,science%2C%20computation%2C%20and%20robotics.">the 4th International Workshop on Neural Engineering & Rehabilitation</a> in Chengdu China
 - *[2023.Aug]*: A paper was accepted to ESWA. I finished my master study eventually!
-- *[2023.Apr]*: A paper was accepted to EMBC 2023.
+<!-- - *[2023.Apr]*: A paper was accepted to EMBC 2023. -->
 <!-- - *[2022.Nov]*: Passed my PhD Qualifying Examination! -->
 <!-- - *2022.09*: A paper is accepted by IJPR. -->
 <!-- - *2022.04*: A paper is accepted to EMBC 2022. -->
