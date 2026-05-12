@@ -29,10 +29,19 @@ redirect_from:
 
 I am a PhD in Individualized Interdisciplinary Program (Robotics and Autonomous Systems) at <a href="https://ais.hkust.edu.hk/">Academy of Interdisciplinary Studies (AIS)</a> of Hong Kong University of Science and Technology (**HKUST**), supervised by <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yiwen-wang-eewangyw">Prof. Yiwen Wang</a> (<a href="https://bmi.hkust.edu.hk/">CCEL in HKUST</a>). Before joining HKUST,  I received my M.Eng (**Zhejiang Univ.** 2021) and B.Eng (**Tongji Univ.** 2018) in Mechanical Engineering.
 
-My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cognitive Analysis**. Now I focus on point processes modeling (spiking activity) for understanding neural populations coding in Brain-machine Interfaces. And I also did some work on brain-inspired intelligence and cognitive analysis. I am broadly interested in
+My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cognitive Analysis** in PhD stage. I focus on point processes modeling (spiking activity) for understanding neural populations coding in Brain-machine Interfaces. And I also did some work on brain-inspired intelligence and cognitive analysis. I am broadly interested in
 1. Developing interpretable models to understand how neurons represent, process, and transmit information
 2. Establishing brain-inspired machine intelligence frameworks bridging artificial neural networks and biological neural networks.
-3. Exploring applications in wearable computing, mental health, and robotics learning, etc.
+3. Exploring applications in robotics learning, wearable computing, mental health, and etc.
+
+
+# 📍 Career
+
+- **Algorithm Engineer, Humanoid Lab, Anker Innovations** *(Apr 2025 – Present)*
+  - Data factory, storage system and data management on Cloud
+  - Multimodal manipulation algorithm research for UMI (image, language and tactile)
+  - Investigation, testing and evaluation of tactile sensors
+
 
 
 # 🔥 News
@@ -54,6 +63,8 @@ My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cogn
 # 📝 Publications
 ## Journal paper
 <ol> 
+<li> Shenghui Wu, Zhiwei Song, Xiang Zhang, Yifan Huang, Shuhang Chen, Xiang Shen, Jieyuan Tan, <b>Mingdong Li</b>, Ziyi Wang, Yujun Chen, Kai Liu, Dario Farina, Jose C. Principe, Yiwen Wang. A generative spike prediction model using behavioral reinforcement for re-establishing neural functional connectivity <b>(NAT COMPUT SCI)</b>, 2026. <a href="https://www.nature.com/articles/s43588-025-00915-5">[PDF]</a></li>
+
 <li><b>Mingdong Li</b>, Shuhang Chen<span>&#8224;</span>, Xiang Zhang, Yiwen Wang. Neural Correlation Integrated Adaptive Point Process Filtering on Population Spike Trains, IEEE Transactions on Neural Systems and Rehabilitation Engineering <b>(TNSRE)</b>, 2025.  (<span>&#8224;</span>: co-first author) <a href="https://ieeexplore.ieee.org/document/10902622">[PDF]</a></li>
 
 <li><b>Mingdong Li</b>, Shanhe Lou*, Hao Zheng, Yixiong Feng, Yicong Gao, Siyuan Zeng, Jianrong Tan. A Cognitive Analysis-based Key Concepts Derivation Approach for Product Design, Expert Systems With Applications <b>(ESWA)</b>, 2024. <a href="https://doi.org/10.1016/j.eswa.2023.121289">[PDF]</a></li>
