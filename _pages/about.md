@@ -19,7 +19,7 @@ redirect_from:
 
 *"Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir und das moralische Gesetz in mir."*
 
-[🖺My Resume](../gallery/Infustry_CV_EN.pdf)
+[🖺My Resume](../gallery/Industry_CV_EN.pdf)
 
 [🖺个人简历](../gallery/Industry_CV_CN.pdf)
 
@@ -37,7 +37,7 @@ My research interest lies in **Brain-machine Interface**, **NeuroAI** and **Cogn
 
 # 📍 Career
 
-- **Algorithm Engineer, Humanoid Lab, Anker Innovations** *(Apr 2025 – Present)*
+- **Research Scientist, Humanoid Lab, Anker Innovations** *(Apr 2025 – Present)*
   - Data factory, storage system and data management on Cloud
   - Multimodal manipulation algorithm research for UMI (image, language and tactile)
   - Investigation, testing and evaluation of tactile sensors
